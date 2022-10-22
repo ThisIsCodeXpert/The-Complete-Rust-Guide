@@ -1,1 +1,1 @@
-# The-Complete-Rust-Guide
+# The Complete Rust Guide Tutorial Series
